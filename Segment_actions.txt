@@ -1,0 +1,14 @@
+Champions:
+VIP offers, early access
+
+Loyal:
+Cross-sell, loyalty rewards
+
+Potential Loyalist:
+Welcome discounts
+
+At Risk:
+Win-back coupons
+
+Lost:
+One-time reactivation offers
